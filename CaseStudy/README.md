@@ -107,7 +107,7 @@ Fig.2 Block diagram of light management system
 * LLR 2. LDR detected value reach 65 then the intensity should be managed.
 * LLR 3. RTC time is 6pm the light should be turned ON and when RTC time is 6am light should be turned OFF.
 
-### References
+## References
 *	Auto Intensity Control of Street Lights using Microcontroller by Sudheer Gupta.
 *	Smart street lamp Unit (SslU) with Embedded System by J Ferin Joseph, David Anthony Durand, V Gowtham.
 *	Energy Efficient Outdoor Light Monitoring and Control Architecture Using Embedded System by Zeeshan Kaleem, Tae Min Yoon, and Chankil Lee.
