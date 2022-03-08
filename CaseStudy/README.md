@@ -77,33 +77,33 @@ z
 Fig.2 Block diagram of light management system
 
 ## Application
-* LDR SENSOR:  It is used to sense the intensity of the light in the surroundings.
-* PUSH BUTTON:  It is used to select if the system should work on the basis of LDR sensor or RTC.
-* LED:  To show the output i.e., turn on and off accordingly.
-* LCD DISPLAY:  It displays the intensity of the light.
-*	RTC MODULE:  It stores the time when the light has to be turned ON and when it should be turned OFF.
+*  LDR SENSOR:  It is used to sense the intensity of the light in the surroundings.
+*  PUSH BUTTON:  It is used to select if the system should work on the basis of LDR sensor or RTC.
+*  LED:  To show the output i.e., turn on and off accordingly.
+*  LCD DISPLAY:  It displays the intensity of the light.
+*	 RTC MODULE:  It stores the time when the light has to be turned ON and when it should be turned OFF.
 
 ## Component Details
-*	LDR Sensor:  It is called as photoresistors and are made of high resistance semiconductor material. It has adjustable trigger level from preset, it has LED indicating output and power. The operating voltage is 3.3V to 5V and the operating current is 15ma.
-*	LCD Display:  It has 2 rows which can produce 16 characters. It uses 1mA of current and can display alphanumeric characters.
-*	RTC Module:  It keeps an updated track of the current time which can be read by a microprocessor, it has 1 Hz and 32 KHz output pin. The Voltage Supply ranges between 2.2 V to 5.5V.
+*	 LDR Sensor:  It is called as photoresistors and are made of high resistance semiconductor material. It has adjustable trigger level from preset, it has LED indicating output and power. The operating voltage is 3.3V to 5V and the operating current is 15ma.
+*	 LCD Display:  It has 2 rows which can produce 16 characters. It uses 1mA of current and can display alphanumeric characters.
+*	 RTC Module:  It keeps an updated track of the current time which can be read by a microprocessor, it has 1 Hz and 32 KHz output pin. The Voltage Supply ranges between 2.2 V to 5.5V.
 
 ## Requirements
 ### High Level Requirement
-* HLR 1.  Check the mode of operation either LDR based or RTC based.
-* HLR 2.  Manage the light intensity based on the value set and detected by the LDR.
-* HLR 3.  Switch the light based on the RTC time and set value.
+*  HLR 1.  Check the mode of operation either LDR based or RTC based.
+*  HLR 2.  Manage the light intensity based on the value set and detected by the LDR.
+*  HLR 3.  Switch the light based on the RTC time and set value.
 
 ### Low Level Requirement
-* LLR 1.  Based on the input from push button the operation is continued.
-* LLR 2.  LDR detected value reach 65 then the intensity should be managed.
-* LLR 3.  RTC time is 6pm the light should be turned ON and when RTC time is 6am light should be turned OFF.
+*  LLR 1.  Based on the input from push button the operation is continued.
+*  LLR 2.  LDR detected value reach 65 then the intensity should be managed.
+*  LLR 3.  RTC time is 6pm the light should be turned ON and when RTC time is 6am light should be turned OFF.
 
 ## References
-*	Auto Intensity Control of Street Lights using Microcontroller by Sudheer Gupta.
-*	Smart street lamp Unit (SslU) with Embedded System by J Ferin Joseph, David Anthony Durand, V Gowtham.
-*	Energy Efficient Outdoor Light Monitoring and Control Architecture Using Embedded System by Zeeshan Kaleem, Tae Min Yoon, and Chankil Lee.
-*	https://www.eeweb.com/auto-intensity-control-of-street-lights-using-microcontroller/#:~:text=The%20auto%20intensity%20control%20of,to%20digital%20value%20using%20ADC.
+*	 Auto Intensity Control of Street Lights using Microcontroller by Sudheer Gupta.
+*  Smart street lamp Unit (SslU) with Embedded System by J Ferin Joseph, David Anthony Durand, V Gowtham.
+* 	Energy Efficient Outdoor Light Monitoring and Control Architecture Using Embedded System by Zeeshan Kaleem, Tae Min Yoon, and Chankil Lee.
+*	 https://www.eeweb.com/auto-intensity-control-of-street-lights-using-microcontroller/#:~:text=The%20auto%20intensity%20control%20of,to%20digital%20value%20using%20ADC.
 
 
 
