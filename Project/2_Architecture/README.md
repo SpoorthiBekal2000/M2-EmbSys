@@ -4,7 +4,13 @@
 Fig.1 Block Diagram of system
 
 ## 2.2 Structural Diagram
+![struct](https://user-images.githubusercontent.com/47130806/157178838-29fbcc68-9e18-4f35-bf55-4267d9d4c1ec.PNG)
+
+Fig.2 Structural Diagram of system
 
 ## 2.3 Behavioural Diagram
+![behav](https://user-images.githubusercontent.com/47130806/157178941-5e03c82d-b2f8-4181-8020-62c0892e6970.PNG)
+
+Fig.3 Behavioural Diagram of system
 
 ## 2.4 Flow Chart
