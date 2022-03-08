@@ -25,7 +25,7 @@
  
  ## Application 
  
-* KEYPAD  :  It is used to set the alarm time.
+* KEYPAD:  It is used to set the alarm time.
 * RTC:  It is used to set the current time and as it has its own power supply it can maintain the time even when power is not available.
 * Buzzer:  It is used to provide audio signal when the current time of the clock reach the set time.
 * LCD display:  It is used to show the current time and the alarm set time.
