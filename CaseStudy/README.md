@@ -2,7 +2,7 @@
 
 # CASE STUDY 1: ALARM CLOCK
 ## TABLE OF CONTENTS
-z
+
  BLOCK DIAGRAM	
  
  APPLICATION	
@@ -77,7 +77,7 @@ z
 Fig.2 Block diagram of light management system
 
 ## Application
-*  LDR SENSOR:  It is used to sense the intensity of the light in the surroundings.
+*   LDR SENSOR:  It is used to sense the intensity of the light in the surroundings.
 *  PUSH BUTTON:  It is used to select if the system should work on the basis of LDR sensor or RTC.
 *  LED:  To show the output i.e., turn on and off accordingly.
 *  LCD DISPLAY:  It displays the intensity of the light.
