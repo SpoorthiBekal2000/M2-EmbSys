@@ -20,4 +20,4 @@
 |HLR_2	|LLR_2.0|	User entry shall be detected with the help of PIR sensor.|
 |	|LLR_2.1|	Sensor value shall be used to turn the light ON.|
 |HLR_3	|LLR_3.0|	Intensity of the surrounding shall be detected using LDR sensor.|
-|	|LLR_3.1|	If the intensity is high light shall be turned OFF and if intensity is low light shall continue in the ON state.|
+|	|LLR_3.1|	If the intensity is higher than 500 light shall be turned OFF and if intensity is lower than 500 light shall continue in the ON state.|
