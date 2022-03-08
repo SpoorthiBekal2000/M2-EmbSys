@@ -100,10 +100,10 @@ Fig.2 Block diagram of light management system
 *  LLR 3.  RTC time is 6pm the light should be turned ON and when RTC time is 6am light should be turned OFF.
 
 ## References
-*	 Auto Intensity Control of Street Lights using Microcontroller by Sudheer Gupta.
-*  Smart street lamp Unit (SslU) with Embedded System by J Ferin Joseph, David Anthony Durand, V Gowtham.
-* 	Energy Efficient Outdoor Light Monitoring and Control Architecture Using Embedded System by Zeeshan Kaleem, Tae Min Yoon, and Chankil Lee.
-*	 https://www.eeweb.com/auto-intensity-control-of-street-lights-using-microcontroller/#:~:text=The%20auto%20intensity%20control%20of,to%20digital%20value%20using%20ADC.
+*..Auto Intensity Control of Street Lights using Microcontroller by Sudheer Gupta.
+*..Smart street lamp Unit (SslU) with Embedded System by J Ferin Joseph, David Anthony Durand, V Gowtham.
+*..Energy Efficient Outdoor Light Monitoring and Control Architecture Using Embedded System by Zeeshan Kaleem, Tae Min Yoon, and Chankil Lee.
+*..https://www.eeweb.com/auto-intensity-control-of-street-lights-using-microcontroller/#:~:text=The%20auto%20intensity%20control%20of,to%20digital%20value%20using%20ADC.
 
 
 
