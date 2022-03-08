@@ -14,3 +14,6 @@ Fig.2 Structural Diagram of system
 Fig.3 Behavioural Diagram of system
 
 ## 2.4 Flow Chart
+![Flowchart](https://user-images.githubusercontent.com/47130806/157183768-2623ff15-54bc-4eea-9140-ac4e7e8857e9.PNG)
+
+Fig.4 Behavioural Diagram of system
