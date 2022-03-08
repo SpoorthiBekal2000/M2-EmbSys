@@ -23,11 +23,11 @@
                                Fig.1 Block Diagram of alarm clock
 
  ## Application  
-* KEYPAD:  It is used to set the alarm time.
-* RTC:  It is used to set the current time and as it has its own power supply it can maintain the time even when power is not available.
-* Buzzer:  It is used to provide audio signal when the current time of the clock reach the set time.
-* LCD display:  It is used to show the current time and the alarm set time.
-* EEPROM:  It is used to store the set alarm time, it will be stored even when the power supply is not available.  
+*  KEYPAD:  It is used to set the alarm time.
+*  RTC:  It is used to set the current time and as it has its own power supply it can maintain the time even when power is not available.
+*  Buzzer:  It is used to provide audio signal when the current time of the clock reach the set time.
+*  LCD display:  It is used to show the current time and the alarm set time.
+*  EEPROM:  It is used to store the set alarm time, it will be stored even when the power supply is not available.  
 
 ## Component Details		
 *	Microcontroller:  It helps in efficient interfacing of RTC. It has good computation speed and many numbers of pins and operates at a frequency of 16 MHz.
@@ -38,19 +38,19 @@
 
 ## Requirements
 ### High Level Requirement
-* HLR 1.  Set the time accurately.
-* HLR 2.  Buzzer should turn on when the current time meet the set time.
-* HLR 3.  The time should be properly displayed on the LCD.
-* HLR 4.  It should detect if it is AM or PM.
+*  HLR 1.  Set the time accurately.
+*  HLR 2.  Buzzer should turn on when the current time meet the set time.
+*  HLR 3.  The time should be properly displayed on the LCD.
+*  HLR 4.  It should detect if it is AM or PM.
 ### Low Level Requirement
-* LLR 1.  The time set should be in either 12 hour or 24 hour format.
-* LLR 2.  Buzzer should be turned ON till the user manually turns it off.
-* LLR 3.  The hours and minutes should be clearly displayed on the segments of LCD.
-* LLR 4.  LCD should have separate indication to indicate AM or PM.
+*  LLR 1.  The time set should be in either 12 hour or 24 hour format.
+*  LLR 2.  Buzzer should be turned ON till the user manually turns it off.
+*  LLR 3.  The hours and minutes should be clearly displayed on the segments of LCD.
+*  LLR 4.  LCD should have separate indication to indicate AM or PM.
 ## References
-*	http://theteacher.info/index.php/f453-advanced-theory/3-3-1-operating-systems/notes/393-embedded-systems-notes.
-*	Software Requirements Specification for Geek Binary Alarm Clock by Yesuratnam Thommandru Iowa State University – Electrical and Computer Engineering.
-*	The Real-Time Hardware of Smart Digital Alarm Clock Integrated with Microcontroller by Ginne Rani, Purnendu Shekhar Pandey, Praful Ranjan, Gaurav Negi and Saurabh Kavi
+*	 http://theteacher.info/index.php/f453-advanced-theory/3-3-1-operating-systems/notes/393-embedded-systems-notes.
+*	 Software Requirements Specification for Geek Binary Alarm Clock by Yesuratnam Thommandru Iowa State University – Electrical and Computer Engineering.
+*	 The Real-Time Hardware of Smart Digital Alarm Clock Integrated with Microcontroller by Ginne Rani, Purnendu Shekhar Pandey, Praful Ranjan, Gaurav Negi and Saurabh Kavi
 
 # CASE STUDY 2:LIGHT MANAGEMENT
 ## TABLE OF CONTENTS
