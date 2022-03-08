@@ -11,7 +11,6 @@
 *   Keypad is used as user interface for entering the password.
 *   Display gives the messages like enter password,welcome,wrong password.
 
-
 ## Subsystem-2
 ![Subsystem_2](https://user-images.githubusercontent.com/47130806/157184410-0695219e-dd46-4a5c-82e7-0671afce136f.PNG)
 
