@@ -17,14 +17,12 @@
  
  REFERENCES	
 
-
 ## Block Diagram
 
 ![image](https://user-images.githubusercontent.com/47130806/154840454-7137ef8b-edcf-4ae8-9fe2-142e6ee895d3.png)
                                Fig.1 Block Diagram of alarm clock
- 
- ## Application 
- 
+
+ ## Application  
 * KEYPAD:  It is used to set the alarm time.
 * RTC:  It is used to set the current time and as it has its own power supply it can maintain the time even when power is not available.
 * Buzzer:  It is used to provide audio signal when the current time of the clock reach the set time.
@@ -54,9 +52,6 @@
 *	Software Requirements Specification for Geek Binary Alarm Clock by Yesuratnam Thommandru Iowa State University – Electrical and Computer Engineering.
 *	The Real-Time Hardware of Smart Digital Alarm Clock Integrated with Microcontroller by Ginne Rani, Purnendu Shekhar Pandey, Praful Ranjan, Gaurav Negi and Saurabh Kavi
 
-
-
-
 # CASE STUDY 2:LIGHT MANAGEMENT
 ## TABLE OF CONTENTS
 
@@ -81,7 +76,6 @@
 
  
 Fig.2 Block diagram of light management system
-
 
 ## Application
 *	LDR SENSOR:  It is used to sense the intensity of the light in the surroundings.
