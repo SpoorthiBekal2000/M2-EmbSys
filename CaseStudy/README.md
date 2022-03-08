@@ -27,10 +27,10 @@
 * RTC:  It is used to set the current time and as it has its own power supply it can maintain the time even when power is not available.
 * Buzzer:  It is used to provide audio signal when the current time of the clock reach the set time.
 * LCD display:  It is used to show the current time and the alarm set time.
-* EEPROM:  It is used to store the set alarm time,it will be stored even when the power supply is not available.  
+* EEPROM:  It is used to store the set alarm time,  it will be stored even when the power supply is not available.  
 
 ## Component Details		
-*	Microcontroller:  It helps in efficient interfacing of RTC. It has good computation speed and many numbers of pins and operates at a frequency of 16 MHz.
+*	Microcontroller:  It helps in efficient interfacing of RTC.  It has good computation speed and many numbers of pins and operates at a frequency of 16 MHz.
 *	Keypad:  Keypad provides a useful human interface component with maximum rating of 24 V and 30mA.
 * Buzzer:  It consists of switches or sensors connected to a control unit that determines if the condition is satisfied and produces sound. Buzzer. It has Positive and Negative terminals, positive is connected to the +5V and negative is connected to the collector of the transistor.
 *	RTC:  It maintains accurate time even when the main power to the device is interrupted. It counts Seconds, Minutes, and Hours.
