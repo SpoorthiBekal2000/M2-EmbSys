@@ -74,14 +74,13 @@ z
 
 ![image](https://user-images.githubusercontent.com/47130806/154840873-c9e34233-a528-456a-9f9a-90d798aa56ec.png)
 
- 
 Fig.2 Block diagram of light management system
 
 ## Application
-*	LDR SENSOR:  It is used to sense the intensity of the light in the surroundings.
-*	PUSH BUTTON:  It is used to select if the system should work on the basis of LDR sensor or RTC.
-*	LED:  To show the output i.e., turn on and off accordingly.
-*	LCD DISPLAY:  It displays the intensity of the light.
+* LDR SENSOR:  It is used to sense the intensity of the light in the surroundings.
+* PUSH BUTTON:  It is used to select if the system should work on the basis of LDR sensor or RTC.
+* LED:  To show the output i.e., turn on and off accordingly.
+* LCD DISPLAY:  It displays the intensity of the light.
 *	RTC MODULE:  It stores the time when the light has to be turned ON and when it should be turned OFF.
 
 ## Component Details
