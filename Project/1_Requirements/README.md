@@ -1,13 +1,10 @@
 # 1	Requirements
 ## 1.1	High Level Requirement
-
 |ID|	Description|
 |:-|:-|
 |HLR_1|	Password shall be verified based on which user will be allowed to enter.|
 |HLR_2|User entry shall be detected and the light will be controlled. |
 |HLR_3|	The intensity of the light shall be measured and will turn the light ON and OFF accordingly.|
-
-
 
 ## 1.2 Low Level Requirement
 |H-ID|	L-ID|	Description|
